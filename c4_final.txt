@@ -1,0 +1,7 @@
+Hello welcome to our c4 game, our game can be played with four simple steps:
+    1. First run final.py
+    2. Second create a board
+        - Any size works however the graphics window does not scale therefore
+        we recommend either (7,7) or (7,6)
+    3. run Board.final() and on-screen prompts will guide you from therefore
+    4. Have Fun!!!
